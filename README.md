@@ -1,4 +1,4 @@
-# CryptUp
+# CryptPlot
 Automatic Ticker Builder for Cryptocurrencies , Includes a Candlestick graph plotter for Analyzing
 
 Recommended System Requirements:<br />
@@ -7,8 +7,8 @@ Python 3.9 <br />
 Dual Core Processor<br />
 
 Python Modules Requirements:<br />
-*CryptUp uses Pandas,json,Requests for Tick Builder<br />
-*CryptUp uses Plotly for Graph Plotting<br />
+*CryptPlot uses Pandas,json,Requests for Tick Builder<br />
+*CryptPlot uses Plotly for Graph Plotting<br />
 All of these can be installed using pip, eg. pip install pandas<br />
 
 Steps to Use:<br />
@@ -17,7 +17,7 @@ Steps to Use:<br />
 3.Run "plotter.py" to get a chart of Crypto OHLCV.<br />
 
 Version - 0.1<br />
-CryptUp uses Alphavantage API as base. Using this Demo Version you can make 5 calls per minute.<br />
+CryptPlot uses Alphavantage API as base. Using this Demo Version you can make 5 calls per minute.<br />
 <br />
 Future Plans-<br />
 1.Add support for multiple cryptocurrencies as it currently only supports BTC.<br />
